@@ -1,7 +1,7 @@
-sw_volume: 100
+sw_volume: 61
 audio_device_state:1:pulse
 state: stop
-current: 0
+current: 54
 random: 0
 repeat: 0
 single: 0
@@ -10,39 +10,110 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:hi-res/Ek Tha Tiger [2012~Hindi~OST~DFLAC~24Bit]/Saiyaara.flac
-1:1. Akhil, Manni Sandhu - Karde Haan (FLAC).flac
-2:hi-res/Zeher [2005~Hindi~OST~DFLAC~24Bit]/Agar Tum Mil Jao(2).flac
-3:01. jxdn - BETTER OFF DEAD (Explicit).flac
-4:01. Rexx Life Raj - Freak (Explicit).flac
-5:hi-res/Ra.One [WAV - 2011]/01 - Chammak Challo ~ Film Version.wav
-6:hi-res/Ra.One [WAV - 2011]/04 - Bhare Naina.wav
-7:01. HARNOOR - Moonlight.flac
-8:01. HARNOOR - Chan Vekhya.flac
+0:01. Arizona Zervas - 24 (Explicit).flac
+1:1. Allah.flac
+2:Hor Labna.mp4
+3:1. B-Town.flac
+4:06. Post Malone - rockstar (Explicit).flac
+5:01. Abeer Arora - Beja Beja.flac
+6:01. Saweetie - Best Friend (feat. Doja Cat) (Explicit).flac
+7:01. jxdn - BETTER OFF DEAD (Explicit).flac
+8:7. ROCKSTAR.flac
 9:01. Meek Mill - Blue Notes 2 (feat. Lil Uzi Vert) (Explicit).flac
-10:01. Rexx Life Raj - Freak (Explicit).flac
-11:01. Rexx Life Raj - Freak (Explicit).flac
-12:01. R Nait - Struggler.flac
-13:01. Ryan Caraveo - Deceived.flac
-14:06. Post Malone - rockstar (Explicit).flac
-15:1. Akhil, Manni Sandhu - Karde Haan (FLAC).flac
-16:To The Stars - The PropheC (FLAC).flac
-17:Slowdown - JOSHCIRI (FLAC).flac
-18:Ride Or Die - Ezu (FLAC).flac
-19:Let you be - 5am Brown (FLAC).flac
-20:Hor Labna.mp4
-21:I Stand On That - E-40  Joyner Lucas  T.I. (FLAC).flac
-22:3. The PropheC - Sambh (FLAC).flac
-23:2. The PropheC - Close (FLAC).flac
-24:hi-res/Zeher [2005~Hindi~OST~DFLAC~24Bit]/Agar Tum Mil Jao(2).flac
-25:hi-res/Zeher [2005~Hindi~OST~DFLAC~24Bit]/Zamana Chhod Denge Hum.flac
-26:06. Post Malone - rockstar (Explicit).flac
-27:01. Abeer Arora - Beja Beja.flac
-28:01 How You Like That.flac
-29:2. Warning Shot (feat. Bacon Da Smalltown General).flac
-30:16. Lil Uzi Vert - P2 (Explicit).flac
-31:Pop Smoke - Shoot For The Stars Aim For The Moon (2020) [FLAC] [24B-176.4kHz]/03. Pop Smoke - For The Night (Explicit).flac
-32:Pop Smoke - Shoot For The Stars Aim For The Moon (2020) [FLAC] [24B-176.4kHz]/13. Pop Smoke - Mood Swings (Explicit).flac
-33:Pop Smoke - Shoot For The Stars Aim For The Moon (2020) [FLAC] [24B-176.4kHz]/15. Pop Smoke - What You Know Bout Love (Explicit).flac
-34:18. Rich The Kid, Quavo - That s Tuff (FLAC).flac
+10:18. Rich The Kid, Quavo - That s Tuff (FLAC).flac
+11:01. HDBeenDope - Byrd (Explicit).flac
+12:01. Lil Tjay - Calling My Phone (Explicit).flac
+13:01. HARNOOR - Chan Vekhya.flac
+14:01. Merkules - Death Wish (feat. The Game) (Explicit).flac
+15:01. Ryan Caraveo - Deceived.flac
+16:1. Dhokha.flac
+17:16. Lil Uzi Vert - P2 (Explicit).flac
+18:Fake Friends - Bazanji (FLAC).flac
+19:5. Spicy (feat. Post Malone).flac
+20:01. Rexx Life Raj - Freak (Explicit).flac
+21:2. Anything Can Happen (feat. Meek Mill).flac
+22:1. Woofer.flac
+23:1. Hate The Way.flac
+24:01. Travis Scott - HIGHEST IN THE ROOM (Explicit).flac
+25:I Stand On That - E-40  Joyner Lucas  T.I. (FLAC).flac
+26:07. iann dior - Runaway Kid (Explicit).flac
+27:01. Lil Nas X - INDUSTRY BABY (Explicit).flac
+28:1. Jhanjra.flac
+29:1. Akhil, Manni Sandhu - Karde Haan (FLAC).flac
+30:1. Khyaal.flac
+31:3. What You Know.flac
+32:1. Laugh Now Cry Later.flac
+33:2. Conversations.flac
+34:5. Righteous.flac
+35:7. Smile.flac
+36:11. Come & Go.flac
+37:01. Internet Money - Lemonade (Explicit).flac
+38:Let you be - 5am Brown (FLAC).flac
+39:1. Luvdrug.flac
+40:3. Mickey Singh - Rani Mehlan Di (FLAC).flac
+41:01. HARNOOR - Moonlight.flac
+42:1. Nobody Move.flac
+43:01. AK - Now I'm Forever (Explicit).flac
+44:10. Larry June - Feels so Right (Explicit).flac
+45:12. Escape.flac
+46:16. T.I. - Dead And Gone (FLAC).flac
+47:2. Warning Shot (feat. Bacon Da Smalltown General).flac
+48:1. Phulkari.flac
+49:5. Drankin N Smokin.flac
+50:1. Prada.flac
+51:Ptola (feat. Pam Sengh) - Mickey Singh  Pam Sengh (320).mp3
+52:01. Lil Baby - Real As It Gets (Explicit).flac
+53:1. Red Button.flac
+54:Ride Or Die - Ezu (FLAC).flac
+55:01. MarMar Oso - Ruthless (Nice Guys Always Finish Last) (Remix) (Explicit).flac
+56:2. Wants and Needs.flac
+57:01. Maninder Buttar - Shopping (feat. Kaater).flac
+58:Slowdown - JOSHCIRI (FLAC).flac
+59:2. The PropheC - Close (FLAC).flac
+60:3. The PropheC - Sambh (FLAC).flac
+61:01. R Nait - Struggler.flac
+62:1. Mickey Singh - Summer Luv (FLAC).flac
+63:1. Tere Bare.flac
+64:Teri Meri.m4a
+65:01 How You Like That.flac
+66:02 Ice Cream (with Selena Gomez).flac
+67:05 Lovesick Girls.flac
+68:To The Stars - The PropheC (FLAC).flac
+69:5. Walk Em Down (feat. Roddy Ricch).flac
+70:17. Narrow Road (feat. Lil Baby).flac
+71:01. Saint Jhn - Trap (feat. Lil Baby) (Explicit).flac
+72:1. Tutt Chali Yaari.flac
+73:1. Tyler Herro.flac
+74:1. Wait.flac
+75:1. WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne)  (Remix).flac
+76:Bazanji - Mixed Feelings/1. Fed Up.flac
+77:Bazanji - Mixed Feelings/5. Lights Go Down.flac
+78:Bazanji - Mixed Feelings/6. Only One.flac
+79:Bazanji - Mixed Feelings/7. Hold On.flac
+80:Bazanji - Mixed Feelings/8. The Runway.flac
+81:HARNOOR - Waalian (2020) [FLAC] [16B-44.1kHz]/01. HARNOOR - Waalian.flac
+82:Intense - Midnight (2019) [FLAC] [16B-44.1kHz]/01. Intense - Midnight (feat. Aardee).flac
+83:Intense - Midnight (2019) [FLAC] [16B-44.1kHz]/02. Intense - Teri Yaad (feat. Garry Sandhu).flac
+84:Intense - Midnight (2019) [FLAC] [16B-44.1kHz]/03. Intense - Complicated (feat. Aman).flac
+85:Intense - Midnight (2019) [FLAC] [16B-44.1kHz]/04. Intense - Sahiba (feat. Simiran Kaur Dhadli).flac
+86:Jass Manak - Age 19/2. Girlfriend.flac
+87:Jass Manak - Age 19/3. Viah.flac
+88:Jass Manak - Age 19/4. Chehra Tera.flac
+89:Jass Manak - Age 19/7. Kali Range.flac
+90:Jass Manak - Age 19/8. Tere Naal.flac
+91:Jass Manak - Age 19/9. Age 19.flac
+92:Jass Manak - Bad Munda/2. Taj Mahal.flac
+93:Jass Manak - Bad Munda/6. Kami.flac
+94:Jass Manak - No Competition/3. Heel.flac
+95:Jass Manak - No Competition/5. Nain.flac
+96:Jass Manak - No Competition/7. Haseena.flac
+97:Karan Randhawa - Rambo/3. Marjana.flac
+98:Karan Randhawa - Rambo/8. Paune 12.flac
+99:Pop Smoke - Shoot For The Stars Aim For The Moon (2020) [FLAC] [24B-176.4kHz]/03. Pop Smoke - For The Night (Explicit).flac
+100:Pop Smoke - Shoot For The Stars Aim For The Moon (2020) [FLAC] [24B-176.4kHz]/13. Pop Smoke - Mood Swings (Explicit).flac
+101:Pop Smoke - Shoot For The Stars Aim For The Moon (2020) [FLAC] [24B-176.4kHz]/15. Pop Smoke - What You Know Bout Love (Explicit).flac
+102:The Kid LAROI - FCK LOVE (2020) [FLAC] [24B-44.1kHz]/07. The Kid LAROI - GO (Explicit).flac
+103:Various Artists - Khamoshiyan (Original Motion Picture Soundtrack)/1. Khamoshiyan.flac
+104:Various Artists - Khamoshiyan (Original Motion Picture Soundtrack)/2. Tu Har Lamha.flac
+105:Various Artists - Khamoshiyan (Original Motion Picture Soundtrack)/3. Baatein Ye Kabhi Na  (Male).flac
 playlist_end

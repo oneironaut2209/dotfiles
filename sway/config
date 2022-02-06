@@ -45,7 +45,7 @@ set $menu wofi --show run
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
-output * bg ~/Walls/pexels-pixabay-461940.jpg fill
+output * bg ~/Walls/pexels-lisa-fotios-716565.jpg fill
 #
 # Example configuration:
 #
@@ -90,7 +90,7 @@ output eDP-1 scale 1.2
     bindsym $mod+Return exec $term
 
     # Kill focused window
-    bindsym $mod+Shift+q kill
+    bindsym $mod+q kill
 
     # Start your launcher
     bindsym $mod+d exec $menu
