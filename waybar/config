@@ -86,7 +86,7 @@
 			"on-scroll-down": "brightnessctl set 5%-"
 		},
 		"clock": {
-			"format": "{:%a %d %b %H:%M}",
+			"format": "{:%a %d %b %I:%M}",
 			"tooltip": false
 		},
 		"pulseaudio": {
