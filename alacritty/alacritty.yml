@@ -16,13 +16,13 @@ scrolling:
 # Font configuration
 font:
   normal:
-    family: 'Terminus'
+    family: 'iosevka-term-fonts'
     style: Medium
   bold:
-    family: 'Terminus'
+    family: 'iosevka-term-fonts'
     style: Bold
   italic:
-    family: 'Terminus'
+    family: 'iosevka-term-fonts'
 
   # Point size
   size: 14
